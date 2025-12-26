@@ -69,7 +69,7 @@ http://localhost:8501
 
 ---
 
-📤 データ出力について
+## 📤 データ出力について
 
 CSV（UTF-8 / BOM付き）
 Googleスプレッドシート向け
@@ -80,7 +80,9 @@ Windows Excelで文字化けしにくい形式
 Excel（.xlsx）
 文字化けを完全回避したい場合に推奨
 
-📤 データ出力について
+---
+
+## 📤 データ出力について
 CSV（UTF-8 / BOM付き）
 Googleスプレッドシート向け
 
@@ -90,7 +92,9 @@ Windows Excelで文字化けしにくい形式
 Excel（.xlsx）
 文字化けを完全回避したい場合に推奨
 
-🌐 デプロイについて（Streamlit Cloud）
+---
+
+## 🌐 デプロイについて（Streamlit Cloud）
 本アプリは Streamlit Cloud でのデプロイを想定しています。
 
 デプロイ手順概要
@@ -103,7 +107,9 @@ Excel（.xlsx）
 ※ SQLite は Streamlit Cloud では「一時保存」扱いになるため、
 　本番利用では外部DB（PostgreSQL等）への移行が推奨されます。
 
-🧠 今後の拡張アイデア
+---
+
+## 🧠 今後の拡張アイデア
 - ユーザー認証（管理者 / オペレーター）
 - 対応履歴ログ
 - 優先度（高・中・低）
@@ -112,3 +118,4 @@ Excel（.xlsx）
 
 📄 ライセンス
 MIT License
+
