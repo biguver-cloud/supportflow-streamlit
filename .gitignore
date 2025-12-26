@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+supportflow.db
+logs/app.log
+.venv/
+.vscode/
