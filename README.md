@@ -47,16 +47,6 @@ SupportFlowは、Streamlit + SQLite を用いて作成した、
 
 ---
 
-## 🛠 使用技術
-
-- Python 3.x
-- Streamlit
-- SQLite
-- Pandas
-- Git / GitHub
-
----
-
 ## 💻 使用環境
 
 - MacBook（macOS）
@@ -123,6 +113,7 @@ SupportFlowは、Streamlit + SQLite を用いて作成した、
 設計を拡張することで実務レベルへの発展も可能です。
 
 ご覧いただきありがとうございました！
+
 
 
 
