@@ -43,17 +43,7 @@ Streamlit + SQLite を用いて作成した、
 
 ## 📂 ディレクトリ構成
 
-supportflow-streamlit/
-├─ app.py # メインUI（Streamlit）
-├─ db/
-│ └─ database.py # DB初期化・接続
-├─ repository/
-│ └─ ticket_repository.py # DB操作（CRUD）
-├─ constants/
-│ └─ master.py # マスタ定義
-├─ requirements.txt
-└─ README.md
-
+<img width="381" height="285" alt="image" src="https://github.com/user-attachments/assets/6bb60fa3-273f-4c47-99fd-244e6680c899" />
 
 ---
 
@@ -118,5 +108,6 @@ Excel（.xlsx）
 
 📄 ライセンス
 MIT License
+
 
 
