@@ -91,7 +91,9 @@ SupportFlowは、Streamlit + SQLite を用いて作成した、
 
  ---
 
- ## 🌐 デプロイについて（Streamlit Cloud） 本アプリは Streamlit Cloud でのデプロイを想定しています。 
+ ## 🌐 デプロイについて（Streamlit Cloud） 
+
+本アプリは Streamlit Cloud でのデプロイを想定しています。 
  
  デプロイ手順概要
  1. GitHub にリポジトリを push 
@@ -120,4 +122,5 @@ SupportFlowは、Streamlit + SQLite を用いて作成した、
 設計を拡張することで実務レベルへの発展も可能です。
 
 ご覧いただきありがとうございました！
+
 
