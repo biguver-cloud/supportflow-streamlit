@@ -52,7 +52,7 @@ supportflow-streamlit/
 ├─ constants/
 │ └─ master.py # マスタ定義
 ├─ requirements.txt
-├─ README.md
+└─ README.md
 
 
 ---
@@ -118,4 +118,5 @@ Excel（.xlsx）
 
 📄 ライセンス
 MIT License
+
 
