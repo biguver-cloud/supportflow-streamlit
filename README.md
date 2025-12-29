@@ -72,18 +72,6 @@ Excel（.xlsx）
 
 ---
 
-## 📤 データ出力について
-CSV（UTF-8 / BOM付き）
-Googleスプレッドシート向け
-
-CSV（Excel向け / CP932）
-Windows Excelで文字化けしにくい形式
-
-Excel（.xlsx）
-文字化けを完全回避したい場合に推奨
-
----
-
 ## 🌐 デプロイについて（Streamlit Cloud）
 本アプリは Streamlit Cloud でのデプロイを想定しています。
 
@@ -108,6 +96,7 @@ Excel（.xlsx）
 
 📄 ライセンス
 MIT License
+
 
 
 
