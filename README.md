@@ -91,7 +91,8 @@ SupportFlowは、Streamlit + SQLite を用いて作成した、
  3. 「New app」 → GitHubリポジトリを選択 
  4. app.py を指定 
  5. デプロイ
-※ SQLite は Streamlit Cloud では「一時保存」扱いになるため、 　本番利用では外部DB（PostgreSQL等）への移行が推奨されます。 
+
+※ SQLite は Streamlit Cloud では「一時保存」扱いになるため、 本番利用では外部DB（PostgreSQL等）への移行が推奨されます。 
  
  ---
 
@@ -113,6 +114,7 @@ SupportFlowは、Streamlit + SQLite を用いて作成した、
 設計を拡張することで実務レベルへの発展も可能です。
 
 ご覧いただきありがとうございました！
+
 
 
 
