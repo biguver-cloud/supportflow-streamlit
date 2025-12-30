@@ -70,7 +70,7 @@
  - Plaintext pip install -r requirements.txt 
  - streamlit run app.py 
  
-ブラウザで以下にアクセス： http://localhost:8501
+ブラウザで以下にアクセス： [http://localhost:8501](https://supportflow-app-fzzqdxdre9vlhvbpxuuvrr.streamlit.app/)
 
  ---
 
@@ -114,6 +114,7 @@
 設計を拡張することで実務レベルへの発展も可能です。
 
 ご覧いただきありがとうございました！
+
 
 
 
