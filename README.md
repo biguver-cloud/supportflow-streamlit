@@ -61,7 +61,36 @@
 
 ## 📂 ディレクトリ構成
 
-<img width="381" height="285" alt="image" src="https://github.com/user-attachments/assets/6bb60fa3-273f-4c47-99fd-244e6680c899" />
+supportflow-streamlit/
+├─ streamlit_app.py
+├─ requirements.txt
+├─ README.md
+├─ .gitignore
+├─ supportflow.db
+│
+├─ src/
+│  ├─ __init__.py
+│  │
+│  ├─ constants/
+│  │  ├─ __init__.py
+│  │  └─ master.py
+│  │
+│  ├─ db/
+│  │  ├─ __init__.py
+│  │  └─ database.py
+│  │
+│  ├─ repository/
+│  │  ├─ __init__.py
+│  │  └─ ticket_repository.py
+│  │
+│  ├─ services/
+│  │  └─ __init__.py
+│  │
+│  └─ ui/
+│     └─ __init__.py
+│
+└─ logs/
+   └─ app.log
 
 ---
 
@@ -114,6 +143,7 @@
 設計を拡張することで実務レベルへの発展も可能です。
 
 ご覧いただきありがとうございました！
+
 
 
 
